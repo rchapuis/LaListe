@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Ecran d'accueil/Fichier Main-->
+    <string name="hello">Les courses 2.0</string>
+    <string name="app_name">gLaListe</string>
+    
+    
+<!-- Magasin -->   
+    <string name="magasin_add">Ajouter élément</string>
+    <string name="magasin_titre">Mon magasin</string>
+    
+<!-- Panier -->   
+    <string name="panier_vider">Vider</string>
+    <string name="to_magasin">Aller au Magasin</string>
+    <string name="panier_titre">Mon panier</string>
+    
+</resources>
